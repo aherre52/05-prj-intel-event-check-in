@@ -342,6 +342,21 @@ select {
   color: #475569;
 }
 
+/* Attendee List Styling */
+.attendee-list {
+  margin-top: 24px;
+  text-align: left;
+  padding: 10px 0 0 0;
+  border-top: 1px solid #e0e0e0;
+}
+
+.attendee-item {
+  font-size: 16px;
+  color: #475569;
+  padding: 6px 0;
+  border-bottom: 1px solid #f1f5f9;
+}
+
 /* Mobile responsive */
 @media (max-width: 768px) {
   .hero {
